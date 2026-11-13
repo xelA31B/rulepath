@@ -1,0 +1,14 @@
+{
+  "name": "rulepath",
+  "owner": {
+    "name": "xelA31B"
+  },
+  "description": "Single-plugin marketplace by xelA31B: EU AI Act and AI governance, verified against official sources: classify AI systems (prohibited, high-risk, transparency, minimal) and your role, list obligations with articles and current application dates, generate AI policies, registers, risk assessments and literacy plans aligned with NIST AI RMF and ISO/IEC 42001, and run evidence-based gap reviews with scheduled re-checks. Not legal advice.",
+  "plugins": [
+    {
+      "name": "rulepath",
+      "source": "./",
+      "description": "EU AI Act and AI governance, verified against official sources: classify AI systems (prohibited, high-risk, transparency, minimal) and your role, list obligations with articles and current application dates, generate AI policies, registers, risk assessments and literacy plans aligned with NIST AI RMF and ISO/IEC 42001, and run evidence-based gap reviews with scheduled re-checks. Not legal advice."
+    }
+  ]
+}
