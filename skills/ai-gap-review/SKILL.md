@@ -29,7 +29,7 @@ Compare the organisation's current AI governance documents and practices with th
 2. **Collect evidence.** Documents uploaded, in a connected drive or folder, or described by the user.
 3. **Assess** each applicable requirement: in place / partial / missing / not applicable, with evidence.
 4. **Prioritise** by legal deadline first (dates verified), then risk.
-5. **Report** (branded template `references/report-template.md` when HTML output is available):
+5. **Report** :
 
 ```
 # AI Gap Review — [organisation] · [date]

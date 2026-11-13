@@ -47,7 +47,7 @@ Follow `references/classification-guide.md` in order:
 
 ## Step 3 — Report
 
-Deliver the branded report (`references/report-template.md`) when HTML output is available; otherwise:
+Report format:
 
 ```
 # AI Act Check — [system] · [date]

@@ -53,10 +53,6 @@ Create the documents as one document artifact (or separate files) when available
 
 Close with one line offering a gap review of the organisation's current state against these documents (`ai-gap-review`).
 
-## Branded document
-
-Start the deliverable with the header block from `references/doc-template.md` and follow its structure. When the environment can render HTML artifacts or files, deliver it with the HTML version of that template; when delivering as a document artifact or markdown, use the header block and the same section structure.
-
 ## Recurring run
 
 Recommended cadence: review the pack every 6 months, and after any AI Act guidance or date change or a new AI system. Offer the same scheduling options as `ai-act-check` (frequency, day, time and time zone, delivery), create a scheduled task only after the user confirms, and let them change or cancel it at any time. If no scheduling tool is available, state the cadence and suggest a calendar reminder.
