@@ -1,29 +1,10 @@
 {
   "name": "rulepath",
-  "displayName": "Rulepath",
   "version": "0.1.1",
   "description": "EU AI Act and AI governance, verified against official sources: classify AI systems (prohibited, high-risk, transparency, minimal) and your role, list obligations with articles and current application dates, generate AI policies, registers, risk assessments and literacy plans aligned with NIST AI RMF and ISO/IEC 42001, and run evidence-based gap reviews with scheduled re-checks. Not legal advice.",
   "author": {
     "name": "xelA31B"
   },
-  "homepage": "https://github.com/xelA31B/rulepath",
-  "repository": "https://github.com/xelA31B/rulepath",
-  "documentationUrl": "https://github.com/xelA31B/rulepath#readme",
-  "supportUrl": "https://github.com/xelA31B/rulepath/issues",
-  "privacyPolicyUrl": "https://github.com/xelA31B/rulepath/blob/main/PRIVACY.md",
-  "termsOfServiceUrl": "https://github.com/xelA31B/rulepath/blob/main/TERMS.md",
   "license": "MIT",
-  "keywords": [
-    "eu-ai-act",
-    "ai-governance",
-    "compliance",
-    "nist-ai-rmf",
-    "iso-42001",
-    "ai-policy",
-    "risk-assessment",
-    "responsible-ai",
-    "gdpr",
-    "regulation"
-  ],
   "icon": ".claude-plugin/icon.png"
 }
